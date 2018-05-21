@@ -1,0 +1,13 @@
+/home/aron/Programming/C#/Individual/bin/Debug/netcoreapp2.0/app.db
+/home/aron/Programming/C#/Individual/bin/Debug/netcoreapp2.0/Individual.deps.json
+/home/aron/Programming/C#/Individual/bin/Debug/netcoreapp2.0/Individual.runtimeconfig.json
+/home/aron/Programming/C#/Individual/bin/Debug/netcoreapp2.0/Individual.runtimeconfig.dev.json
+/home/aron/Programming/C#/Individual/bin/Debug/netcoreapp2.0/Individual.dll
+/home/aron/Programming/C#/Individual/bin/Debug/netcoreapp2.0/Individual.pdb
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/Individual.csprojAssemblyReference.cache
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/Individual.csproj.CoreCompileInputs.cache
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/Individual.AssemblyInfoInputs.cache
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/Individual.AssemblyInfo.cs
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/Individual.dll
+/home/aron/Programming/C#/Individual/obj/Debug/netcoreapp2.0/Individual.pdb
